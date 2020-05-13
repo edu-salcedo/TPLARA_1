@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1588628633 source:c:\users\administrador1\desktop\ejerc++\tplara\main.cpp
+	<iostream>
+	<stdlib.h>
+	"rlutil.h"
+	<string.h>
+	<cstdlib>
+	<cstdio>
+	"prototipo.h"
+	"menus.h"
+	"clientes.h"
+	"funciones.h"
+
+1588629675 c:\users\administrador1\desktop\ejerc++\tplara\funciones.h
+
+1588285549 c:\users\administrador1\desktop\ejerc++\tplara\rlutil.h
+
+1588631747 c:\users\administrador1\desktop\ejerc++\tplara\prototipo.h
+
+1588634650 c:\users\administrador1\desktop\ejerc++\tplara\menus.h
+
+1588634676 c:\users\administrador1\desktop\ejerc++\tplara\clientes.h
+
+1589400947 source:c:\users\edwin salcedo\desktop\tplara_1\main.cpp
+	<iostream>
+	<stdlib.h>
+	"rlutil.h"
+	<string.h>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	"prototipo.h"
+	"menus.h"
+	"funciones.h"
+
+1588285549 c:\users\edwin salcedo\desktop\tplara_1\rlutil.h
+
+1589402157 c:\users\edwin salcedo\desktop\tplara_1\prototipo.h
+
+1589402157 c:\users\edwin salcedo\desktop\tplara_1\menus.h
+
+1588634837 c:\users\edwin salcedo\desktop\tplara_1\clientes.h
+
+1589403175 c:\users\edwin salcedo\desktop\tplara_1\funciones.h
+
